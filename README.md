@@ -1,4 +1,4 @@
 
 
-![Video Demonstration](RecordingTP9.mp4)
+[Video Demonstration](RecordingTP9.mp4)
 
