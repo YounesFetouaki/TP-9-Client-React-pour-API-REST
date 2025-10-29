@@ -1,0 +1,5 @@
+com\example\banque\Compte.class
+com\example\banque\CompteRepository.class
+com\example\banque\CompteController.class
+com\example\banque\BanqueApplication$1.class
+com\example\banque\BanqueApplication.class
