@@ -1,4 +1,4 @@
 
 
-<video src="RecordingTP9.mp4" controls="controls" muted="muted" style="max-width: 100%"></video>
+[Watch Video Demonstration](https://github.com/YounesFetouaki/TP-9-Client-React-pour-API-REST/raw/main/RecordingTP9.mp4)
 
